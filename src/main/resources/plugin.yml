@@ -1,0 +1,6 @@
+name: Kotlin
+version: ${version}
+main: kr.bins.kotlinlib.KotlinLib
+authors: [ Bins ]
+api-version: 1.17
+description: Only plugins for kotlin Library should use this, current Kotlin Version is >> 1.6.10 <<
